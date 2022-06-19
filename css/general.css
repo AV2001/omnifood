@@ -26,7 +26,7 @@ Paragraph default: 1.6
 - Tints: #fdf2e9, #fae5d3, #eb984e
 - Shades: #cf711f, #45260a
 - Accents:
-- Greys: #333, #555, #6f6f6f
+- Greys: #333, #555, #6f6f6f, #767676, #777, #888
 
 5) SHADOWS
 0 2.4rem 4.8rem rgba(0, 0, 0, 0.075);
@@ -89,6 +89,10 @@ body {
 
 .grid--4-cols {
   grid-template-columns: repeat(4, 1fr);
+}
+
+.grid--5-cols {
+  grid-template-columns: repeat(5, 1fr);
 }
 
 .grid--center-v {
