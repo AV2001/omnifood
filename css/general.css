@@ -52,6 +52,7 @@ Medium: 11px
 html {
   /* Percentage of user's browser font-size setting */
   font-size: 62.5%;
+  overflow-x: hidden;
 }
 
 body {
@@ -59,6 +60,7 @@ body {
   font-family: 'Rubik', sans-serif;
   font-weight: 400;
   line-height: 1;
+  overflow-x: hidden;
 }
 
 /*************************/
