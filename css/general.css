@@ -12,7 +12,7 @@
     Primary => #e67e22
     Tints => #fdf2e9, #fae5d3
     Shades => #cf711f
-    Greys => #555, #333
+    Greys => #333, #555, #6f6f6f
 
 */
 
@@ -45,6 +45,10 @@ body {
 .grid {
   display: grid;
   gap: 9.6rem 6.4rem;
+}
+
+.grid:not(:last-child) {
+  margin-bottom: 9.6rem;
 }
 
 .grid--2-cols {
