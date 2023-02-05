@@ -12,7 +12,7 @@
     Primary => #e67e22
     Tints => #fdf2e9, #fae5d3
     Shades => #cf711f
-    Greys => #333, #555, #6f6f6f, #aaa
+    Greys => #333, #555, #6f6f6f, #767676, #888
 
 */
 
@@ -61,6 +61,10 @@ body {
 
 .grid--4-cols {
   grid-template-columns: repeat(4, 1fr);
+}
+
+.grid--5-cols {
+  grid-template-columns: repeat(5, 1fr);
 }
 
 .grid--center-v {
@@ -119,7 +123,7 @@ body {
 }
 
 .btn--full:link,
-.btn-full:visited {
+.btn--full:visited {
   background-color: #e67e22;
   color: #fff;
 }
