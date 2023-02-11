@@ -7,3 +7,9 @@ The live demo of the application can be accessible [here](https://av2001.github.
 + HTML
 + CSS
 + JavaScript
+<hr>
+
+## Things Learned 🧠
++ Responsive Web Design
++ Smooth Scrolling
++ UI/UX Principles
