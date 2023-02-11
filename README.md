@@ -15,5 +15,5 @@ The live demo of the application can be accessible [here](https://av2001.github.
 + UI/UX Principles
 
 ## Contact Me 📞
-If you would like to reach out to me, please do so on LinkedIn.
+If you would like to reach out to me, please do so on LinkedIn. \
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudh-vadlamani/)
