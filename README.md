@@ -2,12 +2,12 @@
 Omnifood is a fully-responsive fictional startup that uses AI to recommend meal plans. \
 The live demo of the application can be accessible [here](https://av2001.github.io/omnifood/).
 
-## Tools Used ⚒️
+## Technologies Used ⚒️
 + HTML
 + CSS
 + JavaScript
 
-## Things Learned 🧠
+## What Have I Learned? 🤔
 + Responsive Web Design
 + Smooth Scrolling
 + UI/UX Principles
