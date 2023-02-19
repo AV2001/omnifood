@@ -1,9 +1,8 @@
 # Omnifood
 Omnifood is a fully-responsive fictional startup that uses AI to recommend meal plans. \
-The live demo of the application can be accessible [here](https://av2001.github.io/omnifood/). \
-<br>
-<img src="omnifood.png">
-<br>
+The live demo of the application can be accessible [here](https://av2001.github.io/omnifood/).
+
+<video src="https://user-images.githubusercontent.com/60288842/219967060-3dbd0e75-1e3f-4b1c-a37b-10aa0c45b4ae.mp4"></video>
 
 ## Technologies Used ⚒️
 + HTML
