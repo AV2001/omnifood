@@ -3,6 +3,7 @@ Omnifood is a fully-responsive fictional startup that uses AI to recommend meal 
 The live demo of the application can be accessible [here](https://av2001.github.io/omnifood/).
 <img src="omnifood.png">
 <br>
+<br>
 
 ## Technologies Used ⚒️
 + HTML
